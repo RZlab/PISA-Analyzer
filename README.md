@@ -34,7 +34,7 @@ Please install all necessary packages from CRAN which should take less than 1 mi
 
 Once all packages are installed, please start the PISA-Analyzer R Shiny with the following command:
 
-    shiny::runGitHub('PISA-Analyzer', 'beuschc')
+    shiny::runGitHub('PISA-Analyzer', 'RZlab')
 
     
 # Instructions
